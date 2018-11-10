@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name XR22404CG28TR-F)(type Legacy)(uri /home/twoninefour/hdd/kicadLibs/XR22404CG28TR-F/XR22404CG28TR-F.lib)(options "")(descr ""))
+  (lib (name FSUSB42MUX)(type Legacy)(uri /home/twoninefour/hdd/kicadLibs/FSUSB42MUX/FSUSB42MUX.lib)(options "")(descr ""))
+  (lib (name LD59015C33R)(type Legacy)(uri /home/twoninefour/hdd/kicadLibs/LD59015C33R/LD59015C33R.lib)(options "")(descr ""))
+)
